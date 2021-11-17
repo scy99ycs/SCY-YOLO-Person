@@ -48,7 +48,7 @@ After the training is completed, the weight.h5 file is placed in logs/000
 Move logs/000/trained_weights_stage_1.h5 to model_data
 Modify the default weight path "model_path" in yolo.py to trained_weights_stage_1.h5
 
-## Training step
+## Test step
 Test
 Feel free to find an mp4 with people to put in to test
 python yolo_video.py --input 1.mp4
