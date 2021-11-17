@@ -1,1 +1,1 @@
-# scy-YOLO-Person
+# SCY-YOLO-Person
